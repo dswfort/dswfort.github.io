@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dswfort.github.io/dswfort/categories/</loc>
+    <lastmod>2024-09-18T16:57:49+08:00</lastmod>
+  </url><url>
+    <loc>https://dswfort.github.io/dswfort/post/</loc>
+    <lastmod>2024-09-18T16:57:49+08:00</lastmod>
+  </url><url>
+    <loc>https://dswfort.github.io/dswfort/tags/</loc>
+    <lastmod>2024-09-18T16:57:49+08:00</lastmod>
+  </url><url>
+    <loc>https://dswfort.github.io/dswfort/tags/%E5%BE%AE%E5%B0%8F%E8%AF%B4/</loc>
+    <lastmod>2024-09-18T16:57:49+08:00</lastmod>
+  </url><url>
+    <loc>https://dswfort.github.io/dswfort/post/2024/09/18/%E6%9C%80%E5%90%8E%E4%B8%80%E5%90%8D/</loc>
+    <lastmod>2024-09-18T16:57:49+08:00</lastmod>
+  </url><url>
+    <loc>https://dswfort.github.io/dswfort/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2023-04-25T17:13:45+08:00</lastmod>
+  </url><url>
+    <loc>https://dswfort.github.io/dswfort/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</loc>
+    <lastmod>2023-04-25T17:13:45+08:00</lastmod>
+  </url><url>
+    <loc>https://dswfort.github.io/dswfort/post/2023/04/25/%E5%86%8D%E4%B8%80%E6%AC%A1%E5%AE%89%E5%AE%B6/</loc>
+    <lastmod>2023-04-25T17:13:45+08:00</lastmod>
+  </url><url>
     <loc>https://dswfort.github.io/dswfort/page/</loc>
     <lastmod>2023-04-25T10:51:42+08:00</lastmod>
   </url><url>
@@ -10,11 +34,6 @@
   </url><url>
     <loc>https://dswfort.github.io/dswfort/</loc>
     <lastmod>2023-04-24T16:57:16+08:00</lastmod>
-  </url><url>
-    <loc>https://dswfort.github.io/dswfort/categories/</loc>
-    <lastmod>2023-04-25T17:00:10+08:00</lastmod>
-  </url><url>
-    <loc>https://dswfort.github.io/dswfort/tags/</loc>
   </url><url>
     <loc>https://dswfort.github.io/dswfort/categories/programming-life/</loc>
     <lastmod>2023-04-25T17:00:10+08:00</lastmod>
