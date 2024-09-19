@@ -2,52 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dswfort.github.io/dswfort/categories/</loc>
-    <lastmod>2024-09-18T16:57:49+08:00</lastmod>
+    <loc>https://dswfort.github.io/categories/</loc>
+    <lastmod>2024-09-19T17:37:45+08:00</lastmod>
   </url><url>
-    <loc>https://dswfort.github.io/dswfort/post/</loc>
-    <lastmod>2024-09-18T16:57:49+08:00</lastmod>
+    <loc>https://dswfort.github.io/post/</loc>
+    <lastmod>2024-09-19T17:37:45+08:00</lastmod>
   </url><url>
-    <loc>https://dswfort.github.io/dswfort/tags/</loc>
-    <lastmod>2024-09-18T16:57:49+08:00</lastmod>
+    <loc>https://dswfort.github.io/tags/</loc>
+    <lastmod>2024-09-19T17:37:45+08:00</lastmod>
   </url><url>
-    <loc>https://dswfort.github.io/dswfort/tags/%E5%BE%AE%E5%B0%8F%E8%AF%B4/</loc>
-    <lastmod>2024-09-18T16:57:49+08:00</lastmod>
+    <loc>https://dswfort.github.io/tags/%E5%BE%AE%E5%B0%8F%E8%AF%B4/</loc>
+    <lastmod>2024-09-19T17:37:45+08:00</lastmod>
   </url><url>
-    <loc>https://dswfort.github.io/dswfort/post/2024/09/18/%E6%9C%80%E5%90%8E%E4%B8%80%E5%90%8D/</loc>
-    <lastmod>2024-09-18T16:57:49+08:00</lastmod>
+    <loc>https://dswfort.github.io/post/2024/09/18/%E6%9C%80%E5%90%8E%E4%B8%80%E5%90%8D/</loc>
+    <lastmod>2024-09-19T17:37:45+08:00</lastmod>
   </url><url>
-    <loc>https://dswfort.github.io/dswfort/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <loc>https://dswfort.github.io/tags/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2023-04-25T17:13:45+08:00</lastmod>
   </url><url>
-    <loc>https://dswfort.github.io/dswfort/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</loc>
+    <loc>https://dswfort.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</loc>
     <lastmod>2023-04-25T17:13:45+08:00</lastmod>
   </url><url>
-    <loc>https://dswfort.github.io/dswfort/post/2023/04/25/%E5%86%8D%E4%B8%80%E6%AC%A1%E5%AE%89%E5%AE%B6/</loc>
+    <loc>https://dswfort.github.io/post/2023/04/25/%E5%86%8D%E4%B8%80%E6%AC%A1%E5%AE%89%E5%AE%B6/</loc>
     <lastmod>2023-04-25T17:13:45+08:00</lastmod>
   </url><url>
-    <loc>https://dswfort.github.io/dswfort/page/</loc>
+    <loc>https://dswfort.github.io/page/</loc>
     <lastmod>2023-04-25T10:51:42+08:00</lastmod>
   </url><url>
-    <loc>https://dswfort.github.io/dswfort/archives/</loc>
+    <loc>https://dswfort.github.io/archives/</loc>
     <lastmod>2023-04-25T10:51:42+08:00</lastmod>
   </url><url>
-    <loc>https://dswfort.github.io/dswfort/</loc>
+    <loc>https://dswfort.github.io/</loc>
     <lastmod>2023-04-24T16:57:16+08:00</lastmod>
   </url><url>
-    <loc>https://dswfort.github.io/dswfort/categories/programming-life/</loc>
+    <loc>https://dswfort.github.io/categories/programming-life/</loc>
     <lastmod>2023-04-25T17:00:10+08:00</lastmod>
   </url><url>
-    <loc>https://dswfort.github.io/dswfort/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://dswfort.github.io/%E5%85%B3%E4%BA%8E/</loc>
     <lastmod>2023-04-25T09:18:47+08:00</lastmod>
   </url><url>
-    <loc>https://dswfort.github.io/dswfort/%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https://dswfort.github.io/%E9%93%BE%E6%8E%A5/</loc>
     <lastmod>2023-04-25T08:27:02+08:00</lastmod>
   </url><url>
-    <loc>https://dswfort.github.io/dswfort/search/</loc>
+    <loc>https://dswfort.github.io/categories/dream-and-novel/</loc>
+    <lastmod>2024-09-19T15:43:09+08:00</lastmod>
+  </url><url>
+    <loc>https://dswfort.github.io/search/</loc>
     <lastmod>2023-04-25T08:25:31+08:00</lastmod>
   </url><url>
-    <loc>https://dswfort.github.io/dswfort/categories/diary/</loc>
+    <loc>https://dswfort.github.io/categories/diary/</loc>
     <lastmod>2023-04-25T16:33:14+08:00</lastmod>
   </url>
 </urlset>
